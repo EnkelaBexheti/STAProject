@@ -7663,32 +7663,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/meritonademi/.nuget/packages/": {}
+    "/Users/enkelabexheti/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/meritonademi/Downloads/ItemManagementSystem1 4/SOAProjectTests/SOAProjectTests.csproj",
+      "projectUniqueName": "/Users/enkelabexheti/Desktop/SoaProject 2/SOAProjectTests/SOAProjectTests.csproj",
       "projectName": "SOAProjectTests",
-      "projectPath": "/Users/meritonademi/Downloads/ItemManagementSystem1 4/SOAProjectTests/SOAProjectTests.csproj",
-      "packagesPath": "/Users/meritonademi/.nuget/packages/",
-      "outputPath": "/Users/meritonademi/Downloads/ItemManagementSystem1 4/SOAProjectTests/obj/",
+      "projectPath": "/Users/enkelabexheti/Desktop/SoaProject 2/SOAProjectTests/SOAProjectTests.csproj",
+      "packagesPath": "/Users/enkelabexheti/.nuget/packages/",
+      "outputPath": "/Users/enkelabexheti/Desktop/SoaProject 2/SOAProjectTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/meritonademi/.nuget/NuGet/NuGet.Config"
+        "/Users/enkelabexheti/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/meritonademi/Downloads/ItemManagementSystem1 4/SOAProject/SOAProject.csproj": {
-              "projectPath": "/Users/meritonademi/Downloads/ItemManagementSystem1 4/SOAProject/SOAProject.csproj"
+            "/Users/enkelabexheti/Desktop/SoaProject 2/SOAProject/SOAProject.csproj": {
+              "projectPath": "/Users/enkelabexheti/Desktop/SoaProject 2/SOAProject/SOAProject.csproj"
             }
           }
         }

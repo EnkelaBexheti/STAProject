@@ -4,14 +4,13 @@
     &lt;TestId&gt;xUnit::746A60EC-96E1-4D89-80C4-36DCF457D732::net6.0::SOAProjectTests.EmployeeRepositoryTest.RemoveEmployee_ShouldRemoveEmployeeFromDbContext&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3a45a9e5_002D1b57_002D43ab_002D8e67_002D26d27e4465b2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RemoveEmployee_ShouldRemoveEmployeeFromDbContext #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3a45a9e5_002D1b57_002D43ab_002D8e67_002D26d27e4465b2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RemoveEmployee_ShouldRemoveEmployeeFromDbContext #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::746A60EC-96E1-4D89-80C4-36DCF457D732::net6.0::SOAProjectTests.EmployeeRepositoryTest.RemoveEmployee_ShouldRemoveEmployeeFromDbContext&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ec848d97_002D7330_002D4f38_002D8346_002Df4097a9a1741/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="EmployeeRepositoryTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ec848d97_002D7330_002D4f38_002D8346_002Df4097a9a1741/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="EmployeeRepositoryTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::746A60EC-96E1-4D89-80C4-36DCF457D732::net6.0::SOAProjectTests.EmployeeRepositoryTest&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::746A60EC-96E1-4D89-80C4-36DCF457D732::net6.0::SOAProject.Tests.AssetRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::746A60EC-96E1-4D89-80C4-36DCF457D732::net6.0::SOAProjectTests.AssetControllerTests.GetAllAssets_WhenAssetsExist_ShouldReturnOkResultWithAssets&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
